@@ -18,7 +18,7 @@ The purpose of this lab was to analyze Windows Security logs using Event Viewer 
 
 Opened Windows Event Viewer and navigated to the Windows Security logs.
 
-![Event Viewer Open](Screenshot%20(1).png)
+![Security Log Filtered](Screenshot%20(7).png)
 
 ---
 
