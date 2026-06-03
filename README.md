@@ -26,7 +26,7 @@ Opened Windows Event Viewer and navigated to the Windows Security logs.
 
 Filtered the Security log to display Event IDs 4624 and 4625 for investigation.
 
-![Security Log Filtered](Screenshot%20(2).png)
+![Event Viewer Open](Screenshot%20(6).png)
 
 ---
 
