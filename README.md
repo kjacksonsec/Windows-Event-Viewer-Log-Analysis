@@ -50,7 +50,7 @@ Event ID 4625 indicates a failed logon attempt.
 
 A failed logon event was identified within the Windows Security log. The event was reviewed to determine the time of occurrence and the affected system. Failed logon events can result from incorrect credentials or unauthorized access attempts and should be investigated for unusual activity.
 
-![Event ID 4625](Screenshot%20(3).png)
+![Event ID 4625](Screenshot%20(9).png)
 
 ---
 
