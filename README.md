@@ -72,8 +72,7 @@ Event ID 4624 indicates a successful logon event.
 
 A successful logon event was identified and reviewed. Successful logon events are useful for validating user authentication activity and establishing timelines during investigations.
 
-![Event ID 4624](Screenshot%20(4).png)
-
+![Event ID 4624](Screenshot%20(10).png)
 ---
 
 ## Investigation Summary
